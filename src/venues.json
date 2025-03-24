@@ -48,9 +48,6 @@
     "title": "TOS"
   },
   {
-    "venue": "FPGA"
-  },
-  {
     "venue": "EuroSys"
   },
   {
@@ -113,52 +110,10 @@
     "venue": "MobiCom"
   },
   {
+    "venue": "MobiSys"
+  },
+  {
     "venue": "INFOCOM"
-  },
-  {
-    "venue": "AAAI"
-  },
-  {
-    "venue": "CVPR"
-  },
-  {
-    "venue": "ICCV"
-  },
-  {
-    "venue": "ICML"
-  },
-  {
-    "venue": "IJCAI"
-  },
-  {
-    "venue": "NeurIPS"
-  },
-  {
-    "venue": "ACL"
-  },
-  {
-    "venue": "CCS"
-  },
-  {
-    "venue": "CRYPTO"
-  },
-  {
-    "venue": "IEEE Symposium on Security and Privacy",
-    "title": "S&P"
-  },
-  {
-    "venue": "USENIX Security Symposium",
-    "title": "Security"
-  },
-  {
-    "venue": "EUROCRYPT"
-  },
-  {
-    "venue": "SIGGRAPH"
-  },
-  {
-    "venue": "ACM Trans Graph",
-    "title": "TOG"
   },
   {
     "venue": "ACM Multimedia",
@@ -175,21 +130,6 @@
   },
   {
     "venue": "PLDI"
-  },
-  {
-    "venue": "POPL"
-  },
-  {
-    "venue": "FOCS"
-  },
-  {
-    "venue": "STOC"
-  },
-  {
-    "venue": "LICS"
-  },
-  {
-    "venue": "CAV"
   },
   {
     "venue": "WWW"

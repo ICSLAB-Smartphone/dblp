@@ -2,7 +2,7 @@ import venuesData from '../venues.json'
 
 export const VenuesDB = venuesData
 export const VENUES_LIST = VenuesDB.map(({ venue }) => venue)
-export const DEFAULT_VENUES_LIST = VENUES_LIST.slice(0, 30)
+export const DEFAULT_VENUES_LIST = VENUES_LIST.slice(0, 40)
 
 function dblpQuery(keyword, venue) {
   return `https://dblp.org/search/publ/api?q=${keyword} venue:${venue}:&format=json&h=999`

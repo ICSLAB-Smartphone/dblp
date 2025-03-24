@@ -31,6 +31,19 @@ export default class App extends Component {
             position: 'relative',
           }}
         >
+          <img
+            src="/ics-logo3.png"
+            alt="Logo"
+            style={{
+              position: 'absolute',
+              left: '20px',
+              top: '50%',
+              transform: 'translateY(-50%)',
+              height: '30px',
+              width: 'auto',
+              zIndex: 1,
+            }}
+          />
           <Responsive maxWidth={1079}>
             <SearchBar
               style={{
