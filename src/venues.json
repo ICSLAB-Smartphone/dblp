@@ -1,5 +1,14 @@
 [
   {
+    "venue": "MobiCom"
+  },
+  {
+    "venue": "MobiSys"
+  },
+  {
+    "venue": "INFOCOM"
+  },
+  {
     "venue": "ASPLOS"
   },
   {
@@ -46,6 +55,9 @@
   {
     "venue": "ACM Trans Storage",
     "title": "TOS"
+  },
+  {
+    "venue": "FPGA"
   },
   {
     "venue": "EuroSys"
@@ -107,13 +119,11 @@
     "venue": "SIGCOMM"
   },
   {
-    "venue": "MobiCom"
+    "venue": "SIGGRAPH"
   },
   {
-    "venue": "MobiSys"
-  },
-  {
-    "venue": "INFOCOM"
+    "venue": "ACM Trans Graph",
+    "title": "TOG"
   },
   {
     "venue": "ACM Multimedia",
@@ -130,6 +140,21 @@
   },
   {
     "venue": "PLDI"
+  },
+  {
+    "venue": "POPL"
+  },
+  {
+    "venue": "FOCS"
+  },
+  {
+    "venue": "STOC"
+  },
+  {
+    "venue": "LICS"
+  },
+  {
+    "venue": "CAV"
   },
   {
     "venue": "WWW"
